@@ -1,7 +1,5 @@
 # Mini Miner
 
-An experiment in mining Bitcoin on MicroPython-enabled devices.
-
 This is a fascinating exploration of MicroPython’s flexibility and the capabilities of constrained hardware. This project offers a basic way to understand blockchain mechanics, hashing algorithms, and the challenges of implementing them on minimal devices.
 
 ## Background
